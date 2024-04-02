@@ -2,6 +2,7 @@ import sys
 import time
 import pytz
 from datetime import datetime
+from datetime import timedelta
 
 from utils import get_daily_papers_by_keyword_with_retries, generate_table, back_up_files,\
     restore_files, remove_backups, get_daily_date
@@ -15,10 +16,17 @@ beijing_timezone = pytz.timezone('Asia/Shanghai')
 current_date = datetime.now(beijing_timezone).strftime("%Y-%m-%d")
 # get last update date from README.md
 with open("README.md", "r") as f:
+    nums = 0
     while True:
         line = f.readline()
         if "Last update:" in line: break
-    last_update_date = line.split(": ")[1].strip()
+        nums+=1
+        if nums==100: 
+            break
+    if nums!=100:
+        last_update_date = line.split(": ")[1].strip()
+    else:
+        last_update_date = (datetime.now(beijing_timezone)-timedelta(days=1)).strftime("%Y-%m-%d")
     if last_update_date == current_date:
         sys.exit("Already updated today!")
 
