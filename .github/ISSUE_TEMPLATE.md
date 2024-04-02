@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 28, 2024
+title: Latest 15 Papers - April 02, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,27 @@ labels: documentation
 ## Time Series
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[InceptionTime vs. Wavelet -- A comparison for time series classification](http://arxiv.org/abs/2403.18687v1)** | 2024-03-27 | 4 pages, 1 figure |
-| **[Generative Pre-Training of Time-Series Data for Unsupervised Fault Detection in Semiconductor Manufacturing](http://arxiv.org/abs/2309.11427v2)** | 2024-03-27 |  |
-| **[Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction](http://arxiv.org/abs/2403.18447v1)** | 2024-03-27 | <details><summary>Accep...</summary><p>Accepted at CVPR 2024</p></details> |
-| **[IIP-Mixer:Intra-Inter Patch Mixing Architecture for Battery Remaining Useful Life Prediction](http://arxiv.org/abs/2403.18379v1)** | 2024-03-27 |  |
-| **[A log-linear model for non-stationary time series of counts](http://arxiv.org/abs/2307.01315v2)** | 2024-03-27 |  |
-| **[Multi-Modal Contrastive Learning for Online Clinical Time-Series Applications](http://arxiv.org/abs/2403.18316v1)** | 2024-03-27 | <details><summary>Accep...</summary><p>Accepted as a Workshop Paper at TS4H@ICLR2024</p></details> |
-| **[AE SemRL: Learning Semantic Association Rules with Autoencoders](http://arxiv.org/abs/2403.18133v1)** | 2024-03-26 |  |
-| **[D-PAD: Deep-Shallow Multi-Frequency Patterns Disentangling for Time Series Forecasting](http://arxiv.org/abs/2403.17814v1)** | 2024-03-26 |  |
-| **[Analysis on reservoir activation with the nonlinearity harnessed from solution-processed MoS2 devices](http://arxiv.org/abs/2403.17676v1)** | 2024-03-26 |  |
-| **[A Survey on Deep Learning and State-of-the-arts Applications](http://arxiv.org/abs/2403.17561v1)** | 2024-03-26 |  |
-| **[Hierarchical Bayesian Modeling for Time-Dependent Inverse Uncertainty Quantification](http://arxiv.org/abs/2401.00641v3)** | 2024-03-26 |  |
-| **[Estimation of Long-Range Dependent Models with Missing Data: to Impute or not to Impute?](http://arxiv.org/abs/2303.04754v2)** | 2024-03-25 |  |
-| **[TACTiS-2: Better, Faster, Simpler Attentional Copulas for Multivariate Time Series](http://arxiv.org/abs/2310.01327v2)** | 2024-03-25 | <details><summary>28 pa...</summary><p>28 pages, 15 figures, The Twelfth International Conference on Learning Representations (ICLR 2024)</p></details> |
-| **[Time Series Compression using Quaternion Valued Neural Networks and Quaternion Backpropagation](http://arxiv.org/abs/2403.11722v2)** | 2024-03-25 |  |
-| **[An Analysis of Linear Time Series Forecasting Models](http://arxiv.org/abs/2403.14587v2)** | 2024-03-25 |  |
+| **[TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods](http://arxiv.org/abs/2403.20150v1)** | 2024-03-29 | <details><summary>Accep...</summary><p>Accepted by PVLDB 2024</p></details> |
+| **[DeepHeteroIoT: Deep Local and Global Learning over Heterogeneous IoT Sensor Data](http://arxiv.org/abs/2403.19996v1)** | 2024-03-29 | <details><summary>Accep...</summary><p>Accepted for Publication and Presented in EAI MobiQuitous 2023 - 20th EAI International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services</p></details> |
+| **[MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection](http://arxiv.org/abs/2403.19888v1)** | 2024-03-29 | Work in progress |
+| **[Measuring Online Emotional Reactions to Events](http://arxiv.org/abs/2307.10245v2)** | 2024-03-28 | <details><summary>Proce...</summary><p>Proceedings of the International Conference on Advances in Social Networks Analysis and Mining. 2023</p></details> |
+| **[Feature-Based Echo-State Networks: A Step Towards Interpretability and Minimalism in Reservoir Computer](http://arxiv.org/abs/2403.19806v1)** | 2024-03-28 | <details><summary>6 pag...</summary><p>6 pages, 12 figures, 1 table. arXiv admin note: substantial text overlap with arXiv:2304.00198, arXiv:2211.05992</p></details> |
+| **[Gegenbauer Graph Neural Networks for Time-varying Signal Reconstruction](http://arxiv.org/abs/2403.19800v1)** | 2024-03-28 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</p></details> |
+| **[Swarm Characteristics Classification Using Neural Networks](http://arxiv.org/abs/2403.19572v1)** | 2024-03-28 |  |
+| **[Few-Shot Learning Patterns in Financial Time-Series for Trend-Following Strategies](http://arxiv.org/abs/2310.10500v2)** | 2024-03-28 | minor edits |
+| **[Improved Genetic Algorithm Based on Greedy and Simulated Annealing Ideas for Vascular Robot Ordering Strategy](http://arxiv.org/abs/2403.19484v1)** | 2024-03-28 | 17 pages |
+| **[Exploiting Individual Graph Structures to Enhance Ecological Momentary Assessment (EMA) Forecasting](http://arxiv.org/abs/2403.19442v1)** | 2024-03-28 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 2024 IEEE 40th International Conference on Data Engineering Workshops</p></details> |
+| **[Constants of Motion for Conserved and Non-conserved Dynamics](http://arxiv.org/abs/2403.19418v1)** | 2024-03-28 | 14 pages, 5 figures |
+| **[Towards Enhancing Time Series Contrastive Learning: A Dynamic Bad Pair Mining Approach](http://arxiv.org/abs/2302.03357v3)** | 2024-03-28 | <details><summary>ICLR ...</summary><p>ICLR 2024 Camera Ready (https://openreview.net/pdf?id=K2c04ulKXn)</p></details> |
+| **[A loss discounting framework for model averaging and selection in time series models](http://arxiv.org/abs/2201.12045v4)** | 2024-03-28 |  |
+| **[Computationally and Memory-Efficient Robust Predictive Analytics Using Big Data](http://arxiv.org/abs/2403.19721v1)** | 2024-03-27 |  |
+| **[Visualizing High-Dimensional Temporal Data Using Direction-Aware t-SNE](http://arxiv.org/abs/2403.19040v1)** | 2024-03-27 |  |
 
 ## Trajectory
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Low-cost adaptive obstacle avoidance trajectory control for express delivery drone](http://arxiv.org/abs/2403.19956v1)** | 2024-03-29 |  |
+| **[Egocentric Scene-aware Human Trajectory Prediction](http://arxiv.org/abs/2403.19026v1)** | 2024-03-27 | 14 pages, 9 figures |
 | **[SingularTrajectory: Universal Trajectory Predictor Using Diffusion Model](http://arxiv.org/abs/2403.18452v1)** | 2024-03-27 | <details><summary>Accep...</summary><p>Accepted at CVPR 2024</p></details> |
 | **[Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction](http://arxiv.org/abs/2403.18447v1)** | 2024-03-27 | <details><summary>Accep...</summary><p>Accepted at CVPR 2024</p></details> |
 | **[UniTraj: A Unified Framework for Scalable Vehicle Trajectory Prediction](http://arxiv.org/abs/2403.15098v2)** | 2024-03-27 |  |
@@ -39,25 +41,23 @@ labels: documentation
 | **[Offline Reinforcement Learning: Role of State Aggregation and Trajectory Data](http://arxiv.org/abs/2403.17091v1)** | 2024-03-25 |  |
 | **[Trajectory Optimization with Global Yaw Parameterization for Field-of-View Constrained Autonomous Flight](http://arxiv.org/abs/2403.17067v1)** | 2024-03-25 |  |
 | **[Spline Trajectory Tracking and Obstacle Avoidance for Mobile Agents via Convex Optimization](http://arxiv.org/abs/2403.16900v1)** | 2024-03-25 |  |
-| **[ReAct Meets ActRe: Autonomous Annotation of Agent Trajectories for Contrastive Self-Training](http://arxiv.org/abs/2403.14589v2)** | 2024-03-25 |  |
-| **[Trajectory Planning of Robotic Manipulator in Dynamic Environment Exploiting DRL](http://arxiv.org/abs/2403.16652v1)** | 2024-03-25 | <details><summary>Accep...</summary><p>Accepted in ICIESTR-2024</p></details> |
 
 ## Graph Neural Networks
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Physics-Informed Graph Neural Networks for Water Distribution Systems](http://arxiv.org/abs/2403.18570v1)** | 2024-03-27 | <details><summary>Exten...</summary><p>Extended version of the paper with the same title published at Proceedings of the AAAI Conference on Artificial Intelligence 2024</p></details> |
-| **[Lightweight Embeddings for Graph Collaborative Filtering](http://arxiv.org/abs/2403.18479v2)** | 2024-03-28 | <details><summary>Accep...</summary><p>Accepted by SIGIR '24</p></details> |
-| **[Intrinsic Subgraph Generation for Interpretable Graph based Visual Question Answering](http://arxiv.org/abs/2403.17647v2)** | 2024-03-27 | <details><summary>Accep...</summary><p>Accepted at LREC-COLING 2024</p></details> |
-| **[GeNet: A Graph Neural Network-based Anti-noise Task-Oriented Semantic Communication Paradigm](http://arxiv.org/abs/2403.18296v1)** | 2024-03-27 |  |
-| **[HERTA: A High-Efficiency and Rigorous Training Algorithm for Unfolded Graph Neural Networks](http://arxiv.org/abs/2403.18142v1)** | 2024-03-26 |  |
-| **[Securing GNNs: Explanation-Based Identification of Backdoored Training Graphs](http://arxiv.org/abs/2403.18136v1)** | 2024-03-26 |  |
-| **[Detection and Discovery of Misinformation Sources using Attributed Webgraphs](http://arxiv.org/abs/2401.02379v3)** | 2024-03-26 |  |
-| **[Probabilistically Rewired Message-Passing Neural Networks](http://arxiv.org/abs/2310.02156v4)** | 2024-03-26 | ICLR 2024 |
-| **[A Decade of Scholarly Research on Open Knowledge Graphs](http://arxiv.org/abs/2306.13186v3)** | 2024-03-26 | <details><summary>Camer...</summary><p>Camera-ready edition for LREC-COLING 2024</p></details> |
-| **[CANOS: A Fast and Scalable Neural AC-OPF Solver Robust To N-1 Perturbations](http://arxiv.org/abs/2403.17660v1)** | 2024-03-26 |  |
-| **[EL-MLFFs: Ensemble Learning of Machine Leaning Force Fields](http://arxiv.org/abs/2403.17507v1)** | 2024-03-26 | 12 pages, 3 figures |
-| **[Variational Graph Auto-Encoder Based Inductive Learning Method for Semi-Supervised Classification](http://arxiv.org/abs/2403.17500v1)** | 2024-03-26 |  |
-| **[An Implicit GNN Solver for Poisson-like problems](http://arxiv.org/abs/2302.10891v3)** | 2024-03-26 |  |
-| **[AFDGCF: Adaptive Feature De-correlation Graph Collaborative Filtering for Recommendations](http://arxiv.org/abs/2403.17416v1)** | 2024-03-26 | <details><summary>Accep...</summary><p>Accepted by SIGIR2024</p></details> |
-| **[Brain Networks and Intelligence: A Graph Neural Network Based Approach to Resting State fMRI Data](http://arxiv.org/abs/2311.03520v2)** | 2024-03-26 |  |
+| **[Graph Neural Aggregation-diffusion with Metastability](http://arxiv.org/abs/2403.20221v1)** | 2024-03-29 | 10 pages, 2 figures |
+| **[On Size and Hardness Generalization in Unsupervised Learning for the Travelling Salesman Problem](http://arxiv.org/abs/2403.20212v1)** | 2024-03-29 |  |
+| **[Dual-Channel Multiplex Graph Neural Networks for Recommendation](http://arxiv.org/abs/2403.11624v3)** | 2024-03-29 |  |
+| **[KGUF: Simple Knowledge-aware Graph-based Recommender with User-based Semantic Features Filtering](http://arxiv.org/abs/2403.20095v1)** | 2024-03-29 |  |
+| **[Beyond the Known: Novel Class Discovery for Open-world Graph Learning](http://arxiv.org/abs/2403.19907v1)** | 2024-03-29 |  |
+| **[A Review of Graph Neural Networks in Epidemic Modeling](http://arxiv.org/abs/2403.19852v1)** | 2024-03-28 |  |
+| **[Multimodal Data Integration for Oncology in the Era of Deep Neural Networks: A Review](http://arxiv.org/abs/2303.06471v3)** | 2024-03-28 |  |
+| **[Attending to Graph Transformers](http://arxiv.org/abs/2302.04181v3)** | 2024-03-28 |  |
+| **[Gegenbauer Graph Neural Networks for Time-varying Signal Reconstruction](http://arxiv.org/abs/2403.19800v1)** | 2024-03-28 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</p></details> |
+| **[Complete Neural Networks for Complete Euclidean Graphs](http://arxiv.org/abs/2301.13821v3)** | 2024-03-28 | <details><summary>The 3...</summary><p>The 38th AAAI Conference on Artificial Intelligence</p></details> |
+| **[SG-PGM: Partial Graph Matching Network with Semantic Geometric Fusion for 3D Scene Graph Alignment and Its Downstream Tasks](http://arxiv.org/abs/2403.19474v1)** | 2024-03-28 | 16 pages, 10 figures |
+| **[Graph Neural Networks for Carbon Dioxide Adsorption Prediction in Aluminium-Exchanged Zeolites](http://arxiv.org/abs/2403.12659v2)** | 2024-03-28 |  |
+| **[Exploiting Individual Graph Structures to Enhance Ecological Momentary Assessment (EMA) Forecasting](http://arxiv.org/abs/2403.19442v1)** | 2024-03-28 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 2024 IEEE 40th International Conference on Data Engineering Workshops</p></details> |
+| **[On the Two Sides of Redundancy in Graph Neural Networks](http://arxiv.org/abs/2310.04190v2)** | 2024-03-28 |  |
+| **[On the Power of the Weisfeiler-Leman Test for Graph Motif Parameters](http://arxiv.org/abs/2309.17053v3)** | 2024-03-28 |  |
 
