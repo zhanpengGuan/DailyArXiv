@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 02, 2024
+title: Latest 15 Papers - April 04, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge graph completion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Harnessing the Power of Large Language Model for Uncertainty Aware Graph Processing](http://arxiv.org/abs/2404.00589v1)** | 2024-03-31 |  |
 | **[IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion](http://arxiv.org/abs/2403.19881v1)** | 2024-03-28 |  |
 | **[KC-GenRe: A Knowledge-constrained Generative Re-ranking Method Based on Large Language Models for Knowledge Graph Completion](http://arxiv.org/abs/2403.17532v1)** | 2024-03-26 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the proceedings of LREC-COLING 2024</p></details> |
 | **[Inductive Knowledge Graph Completion with GNNs and Rules: An Analysis](http://arxiv.org/abs/2308.07942v2)** | 2024-03-24 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391v4)** | 2024-02-26 | <details><summary>Ongoi...</summary><p>Ongoing work; 41 pages (Main Text), 55 pages (Total), 11 Tables, 13 Figures, 619 citations; Paper list is available at https://github.com/zjukg/KG-MM-Survey</p></details> |
 | **[Rendering Graphs for Graph Reasoning in Multimodal Large Language Models](http://arxiv.org/abs/2402.02130v3)** | 2024-02-26 |  |
 | **[Contextualization Distillation from Large Language Model for Knowledge Graph Completion](http://arxiv.org/abs/2402.01729v3)** | 2024-02-24 | <details><summary>Accep...</summary><p>Accepted by EACL 2024 findings v3: add missing citations</p></details> |
-| **[KICGPT: Large Language Model with Knowledge in Context for Knowledge Graph Completion](http://arxiv.org/abs/2402.02389v2)** | 2024-02-23 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2023 Findings</p></details> |
 
 ## Knowledge graph embedding
 | **Title** | **Date** | **Comment** |
@@ -45,9 +45,13 @@ labels: documentation
 ## LLM reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Advancing LLM Reasoning Generalists with Preference Trees](http://arxiv.org/abs/2404.02078v1)** | 2024-04-02 | <details><summary>Model...</summary><p>Models and data are available at https://github.com/OpenBMB/Eurus</p></details> |
+| **[Beyond Accuracy: Evaluating the Reasoning Behavior of Large Language Models -- A Survey](http://arxiv.org/abs/2404.01869v1)** | 2024-04-02 | 26 pages, 2 figures |
+| **[GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond](http://arxiv.org/abs/2309.16583v6)** | 2024-04-02 | <details><summary>Accep...</summary><p>Accepted by NAACL 2024</p></details> |
+| **[Will the Real Linda Please Stand up...to Large Language Models? Examining the Representativeness Heuristic in LLMs](http://arxiv.org/abs/2404.01461v1)** | 2024-04-01 | work in progress |
+| **[Compositional Chain-of-Thought Prompting for Large Multimodal Models](http://arxiv.org/abs/2311.17076v3)** | 2024-04-01 |  |
 | **[Topologies of Reasoning: Demystifying Chains, Trees, and Graphs of Thoughts](http://arxiv.org/abs/2401.14295v2)** | 2024-03-30 |  |
 | **[Assessing and Enhancing the Robustness of Large Language Models with Task Structure Variations for Logical Reasoning](http://arxiv.org/abs/2310.09430v4)** | 2024-03-30 | <details><summary>The s...</summary><p>The short version (v3) was accepted for oral presentation at the first LLM@IJCAI 2023 non-archival symposium; the full version is under review</p></details> |
-| **[Compositional Chain-of-Thought Prompting for Large Multimodal Models](http://arxiv.org/abs/2311.17076v3)** | 2024-04-01 |  |
 | **[Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation](http://arxiv.org/abs/2403.16427v3)** | 2024-03-27 | 11 pages, 4 figures |
 | **[Look Before You Leap: Problem Elaboration Prompting Improves Mathematical Reasoning in Large Language Models](http://arxiv.org/abs/2402.15764v2)** | 2024-03-27 |  |
 | **[SelfIE: Self-Interpretation of Large Language Model Embeddings](http://arxiv.org/abs/2403.10949v2)** | 2024-03-26 |  |
@@ -56,14 +60,15 @@ labels: documentation
 | **[MuSR: Testing the Limits of Chain-of-thought with Multistep Soft Reasoning](http://arxiv.org/abs/2310.16049v2)** | 2024-03-23 |  |
 | **[Leveraging Zero-Shot Prompting for Efficient Language Model Distillation](http://arxiv.org/abs/2403.15886v1)** | 2024-03-23 |  |
 | **[Sphere Neural-Networks for Rational Reasoning](http://arxiv.org/abs/2403.15297v1)** | 2024-03-22 |  |
-| **[Attention-Driven Reasoning: Unlocking the Potential of Large Language Models](http://arxiv.org/abs/2403.14932v1)** | 2024-03-22 |  |
-| **[ERD: A Framework for Improving LLM Reasoning for Cognitive Distortion Classification](http://arxiv.org/abs/2403.14255v1)** | 2024-03-21 |  |
-| **[Benchmarking Chinese Commonsense Reasoning of LLMs: From Chinese-Specifics to Reasoning-Memorization Correlations](http://arxiv.org/abs/2403.14112v1)** | 2024-03-21 | <details><summary>Equal...</summary><p>Equal contribution: Jiaxing Sun, Weiquan Huang, Jiang Wu; Corresponding author: Conghui He</p></details> |
-| **[Enhancing Code Generation Performance of Smaller Models by Distilling the Reasoning Ability of LLMs](http://arxiv.org/abs/2403.13271v1)** | 2024-03-20 | <details><summary>Accep...</summary><p>Accepted for LREC-COLING 2024</p></details> |
 
 ## unlearning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Digital Forgetting in Large Language Models: A Survey of Unlearning Methods](http://arxiv.org/abs/2404.02062v1)** | 2024-04-02 | 70 pages |
+| **[Corrupting Convolution-based Unlearnable Datasets with Pixel-based Image Transformations](http://arxiv.org/abs/2311.18403v2)** | 2024-04-02 |  |
+| **[Efficient Online Unlearning via Hessian-Free Recollection of Individual Data Statistics](http://arxiv.org/abs/2404.01712v1)** | 2024-04-02 | 24 pages, 8 figures |
+| **[Machine Unlearning for Traditional Models and Large Language Models: A Short Survey](http://arxiv.org/abs/2404.01206v1)** | 2024-04-01 | 16 pages |
+| **[Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models](http://arxiv.org/abs/2404.00506v1)** | 2024-03-31 |  |
 | **[Feature Unlearning for Pre-trained GANs and VAEs](http://arxiv.org/abs/2303.05699v4)** | 2024-03-28 |  |
 | **[Threats, Attacks, and Defenses in Machine Unlearning: A Survey](http://arxiv.org/abs/2403.13682v2)** | 2024-03-26 |  |
 | **[Stochastic Gradient Langevin Unlearning](http://arxiv.org/abs/2403.17105v1)** | 2024-03-25 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2401.10371</p></details> |
@@ -74,9 +79,4 @@ labels: documentation
 | **[$\nabla τ$: Gradient-based and Task-Agnostic machine Unlearning](http://arxiv.org/abs/2403.14339v1)** | 2024-03-21 | 14 pages, 2 figures |
 | **[Has Approximate Machine Unlearning been evaluated properly? From Auditing to Side Effects](http://arxiv.org/abs/2403.12830v1)** | 2024-03-19 |  |
 | **[SIFU: Sequential Informed Federated Unlearning for Efficient and Provable Client Unlearning in Federated Optimization](http://arxiv.org/abs/2211.11656v5)** | 2024-03-16 |  |
-| **[Machine Unlearning: Solutions and Challenges](http://arxiv.org/abs/2308.07061v3)** | 2024-03-15 |  |
-| **[Second-Order Information Matters: Revisiting Machine Unlearning for Large Language Models](http://arxiv.org/abs/2403.10557v1)** | 2024-03-13 |  |
-| **[Federated Knowledge Graph Unlearning via Diffusion Model](http://arxiv.org/abs/2403.08554v1)** | 2024-03-13 |  |
-| **[Machine Unlearning: Taxonomy, Metrics, Applications, Challenges, and Prospects](http://arxiv.org/abs/2403.08254v1)** | 2024-03-13 |  |
-| **[Graph Unlearning with Efficient Partial Retraining](http://arxiv.org/abs/2403.07353v2)** | 2024-03-13 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, accepted by The Web Conference 2024 (PhD Symposium Track)</p></details> |
 
