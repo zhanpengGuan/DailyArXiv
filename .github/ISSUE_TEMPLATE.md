@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 04, 2024
+title: Latest 15 Papers - April 05, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## LLM reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[$\texttt{LM}^\texttt{2}$: A Simple Society of Language Models Solves Complex Reasoning](http://arxiv.org/abs/2404.02255v1)** | 2024-04-02 |  |
 | **[Advancing LLM Reasoning Generalists with Preference Trees](http://arxiv.org/abs/2404.02078v1)** | 2024-04-02 | <details><summary>Model...</summary><p>Models and data are available at https://github.com/OpenBMB/Eurus</p></details> |
 | **[Beyond Accuracy: Evaluating the Reasoning Behavior of Large Language Models -- A Survey](http://arxiv.org/abs/2404.01869v1)** | 2024-04-02 | 26 pages, 2 figures |
 | **[GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond](http://arxiv.org/abs/2309.16583v6)** | 2024-04-02 | <details><summary>Accep...</summary><p>Accepted by NAACL 2024</p></details> |
@@ -59,7 +60,6 @@ labels: documentation
 | **[Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph](http://arxiv.org/abs/2307.07697v6)** | 2024-03-24 | <details><summary>Accep...</summary><p>Accepted by ICLR 2024</p></details> |
 | **[MuSR: Testing the Limits of Chain-of-thought with Multistep Soft Reasoning](http://arxiv.org/abs/2310.16049v2)** | 2024-03-23 |  |
 | **[Leveraging Zero-Shot Prompting for Efficient Language Model Distillation](http://arxiv.org/abs/2403.15886v1)** | 2024-03-23 |  |
-| **[Sphere Neural-Networks for Rational Reasoning](http://arxiv.org/abs/2403.15297v1)** | 2024-03-22 |  |
 
 ## unlearning
 | **Title** | **Date** | **Comment** |
