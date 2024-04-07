@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 05, 2024
+title: Latest 15 Papers - April 08, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## LLM reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Capabilities of Large Language Models in Control Engineering: A Benchmark Study on GPT-4, Claude 3 Opus, and Gemini 1.0 Ultra](http://arxiv.org/abs/2404.03647v1)** | 2024-04-04 |  |
 | **[$\texttt{LM}^\texttt{2}$: A Simple Society of Language Models Solves Complex Reasoning](http://arxiv.org/abs/2404.02255v1)** | 2024-04-02 |  |
 | **[Advancing LLM Reasoning Generalists with Preference Trees](http://arxiv.org/abs/2404.02078v1)** | 2024-04-02 | <details><summary>Model...</summary><p>Models and data are available at https://github.com/OpenBMB/Eurus</p></details> |
 | **[Beyond Accuracy: Evaluating the Reasoning Behavior of Large Language Models -- A Survey](http://arxiv.org/abs/2404.01869v1)** | 2024-04-02 | 26 pages, 2 figures |
@@ -59,11 +60,13 @@ labels: documentation
 | **[A Comprehensive Study of the Capabilities of Large Language Models for Vulnerability Detection](http://arxiv.org/abs/2403.17218v1)** | 2024-03-25 |  |
 | **[Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph](http://arxiv.org/abs/2307.07697v6)** | 2024-03-24 | <details><summary>Accep...</summary><p>Accepted by ICLR 2024</p></details> |
 | **[MuSR: Testing the Limits of Chain-of-thought with Multistep Soft Reasoning](http://arxiv.org/abs/2310.16049v2)** | 2024-03-23 |  |
-| **[Leveraging Zero-Shot Prompting for Efficient Language Model Distillation](http://arxiv.org/abs/2403.15886v1)** | 2024-03-23 |  |
 
 ## unlearning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation](http://arxiv.org/abs/2310.12508v5)** | 2024-04-04 | <details><summary>Accep...</summary><p>Accepted by ICLR 2024 as a Spotlight paper</p></details> |
+| **[Learn What You Want to Unlearn: Unlearning Inversion Attacks against Machine Unlearning](http://arxiv.org/abs/2404.03233v1)** | 2024-04-04 | <details><summary>To Ap...</summary><p>To Appear in the 45th IEEE Symposium on Security and Privacy, May 20-23, 2024</p></details> |
+| **[Goldfish: An Efficient Federated Unlearning Framework](http://arxiv.org/abs/2404.03180v1)** | 2024-04-04 |  |
 | **[Digital Forgetting in Large Language Models: A Survey of Unlearning Methods](http://arxiv.org/abs/2404.02062v1)** | 2024-04-02 | 70 pages |
 | **[Corrupting Convolution-based Unlearnable Datasets with Pixel-based Image Transformations](http://arxiv.org/abs/2311.18403v2)** | 2024-04-02 |  |
 | **[Efficient Online Unlearning via Hessian-Free Recollection of Individual Data Statistics](http://arxiv.org/abs/2404.01712v1)** | 2024-04-02 | 24 pages, 8 figures |
@@ -76,7 +79,4 @@ labels: documentation
 | **[Partially Blinded Unlearning: Class Unlearning for Deep Networks a Bayesian Perspective](http://arxiv.org/abs/2403.16246v1)** | 2024-03-24 |  |
 | **[To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now](http://arxiv.org/abs/2310.11868v2)** | 2024-03-24 | <details><summary>Codes...</summary><p>Codes are available at https://github.com/OPTML-Group/Diffusion-MU-Attack</p></details> |
 | **[The Frontier of Data Erasure: Machine Unlearning for Large Language Models](http://arxiv.org/abs/2403.15779v1)** | 2024-03-23 |  |
-| **[$\nabla τ$: Gradient-based and Task-Agnostic machine Unlearning](http://arxiv.org/abs/2403.14339v1)** | 2024-03-21 | 14 pages, 2 figures |
-| **[Has Approximate Machine Unlearning been evaluated properly? From Auditing to Side Effects](http://arxiv.org/abs/2403.12830v1)** | 2024-03-19 |  |
-| **[SIFU: Sequential Informed Federated Unlearning for Efficient and Provable Client Unlearning in Federated Optimization](http://arxiv.org/abs/2211.11656v5)** | 2024-03-16 |  |
 
