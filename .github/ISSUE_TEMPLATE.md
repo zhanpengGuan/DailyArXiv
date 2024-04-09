@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 09, 2024
+title: Latest 15 Papers - April 10, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,9 @@ labels: documentation
 ## LLM reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evaluating Interventional Reasoning Capabilities of Large Language Models](http://arxiv.org/abs/2404.05545v1)** | 2024-04-08 | 17 pages |
+| **[LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step Reasoning with Large Language Models](http://arxiv.org/abs/2404.05221v1)** | 2024-04-08 | <details><summary>Proje...</summary><p>Project website: https://www.llm-reasoners.net/</p></details> |
+| **[Deceptive Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination?](http://arxiv.org/abs/2311.09702v3)** | 2024-04-05 | <details><summary>Work ...</summary><p>Work accepted by NAACL 2024</p></details> |
 | **[Demystifying Chains, Trees, and Graphs of Thoughts](http://arxiv.org/abs/2401.14295v3)** | 2024-04-05 |  |
 | **[Attention-Driven Reasoning: Unlocking the Potential of Large Language Models](http://arxiv.org/abs/2403.14932v2)** | 2024-04-05 |  |
 | **[Capabilities of Large Language Models in Control Engineering: A Benchmark Study on GPT-4, Claude 3 Opus, and Gemini 1.0 Ultra](http://arxiv.org/abs/2404.03647v1)** | 2024-04-04 |  |
@@ -57,9 +60,6 @@ labels: documentation
 | **[Assessing and Enhancing the Robustness of Large Language Models with Task Structure Variations for Logical Reasoning](http://arxiv.org/abs/2310.09430v4)** | 2024-03-30 | <details><summary>The s...</summary><p>The short version (v3) was accepted for oral presentation at the first LLM@IJCAI 2023 non-archival symposium; the full version is under review</p></details> |
 | **[Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation](http://arxiv.org/abs/2403.16427v3)** | 2024-03-27 | 11 pages, 4 figures |
 | **[Look Before You Leap: Problem Elaboration Prompting Improves Mathematical Reasoning in Large Language Models](http://arxiv.org/abs/2402.15764v2)** | 2024-03-27 |  |
-| **[SelfIE: Self-Interpretation of Large Language Model Embeddings](http://arxiv.org/abs/2403.10949v2)** | 2024-03-26 |  |
-| **[A Comprehensive Study of the Capabilities of Large Language Models for Vulnerability Detection](http://arxiv.org/abs/2403.17218v1)** | 2024-03-25 |  |
-| **[Think-on-Graph: Deep and Responsible Reasoning of Large Language Model on Knowledge Graph](http://arxiv.org/abs/2307.07697v6)** | 2024-03-24 | <details><summary>Accep...</summary><p>Accepted by ICLR 2024</p></details> |
 
 ## unlearning
 | **Title** | **Date** | **Comment** |
