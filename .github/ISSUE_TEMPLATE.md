@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 10, 2024
+title: Latest 15 Papers - April 11, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Knowledge graph completion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Zero-Shot Relational Learning for Multimodal Knowledge Graphs](http://arxiv.org/abs/2404.06220v1)** | 2024-04-09 |  |
 | **[KGExplainer: Towards Exploring Connected Subgraph Explanations for Knowledge Graph Completion](http://arxiv.org/abs/2404.03893v1)** | 2024-04-05 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 11 tables. Under Review</p></details> |
 | **[Harnessing the Power of Large Language Model for Uncertainty Aware Graph Processing](http://arxiv.org/abs/2404.00589v1)** | 2024-03-31 |  |
 | **[IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion](http://arxiv.org/abs/2403.19881v1)** | 2024-03-28 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion](http://arxiv.org/abs/2305.07912v2)** | 2024-03-04 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2023</p></details> |
 | **[Temporal Knowledge Graph Completion with Time-sensitive Relations in Hypercomplex Space](http://arxiv.org/abs/2403.02355v1)** | 2024-03-02 |  |
 | **[Knowledge Graphs Meet Multi-Modal Learning: A Comprehensive Survey](http://arxiv.org/abs/2402.05391v4)** | 2024-02-26 | <details><summary>Ongoi...</summary><p>Ongoing work; 41 pages (Main Text), 55 pages (Total), 11 Tables, 13 Figures, 619 citations; Paper list is available at https://github.com/zjukg/KG-MM-Survey</p></details> |
-| **[Rendering Graphs for Graph Reasoning in Multimodal Large Language Models](http://arxiv.org/abs/2402.02130v3)** | 2024-02-26 |  |
 
 ## Knowledge graph embedding
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## LLM reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multimodal Road Network Generation Based on Large Language Model](http://arxiv.org/abs/2404.06227v1)** | 2024-04-09 | 17 pages, 8 figures |
+| **[Counter-intuitive: Large Language Models Can Better Understand Knowledge Graphs Than We Thought](http://arxiv.org/abs/2402.11541v2)** | 2024-04-09 | 13 pages |
 | **[Evaluating Interventional Reasoning Capabilities of Large Language Models](http://arxiv.org/abs/2404.05545v1)** | 2024-04-08 | 17 pages |
 | **[LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step Reasoning with Large Language Models](http://arxiv.org/abs/2404.05221v1)** | 2024-04-08 | <details><summary>Proje...</summary><p>Project website: https://www.llm-reasoners.net/</p></details> |
 | **[Deceptive Semantic Shortcuts on Reasoning Chains: How Far Can Models Go without Hallucination?](http://arxiv.org/abs/2311.09702v3)** | 2024-04-05 | <details><summary>Work ...</summary><p>Work accepted by NAACL 2024</p></details> |
@@ -58,12 +60,12 @@ labels: documentation
 | **[Will the Real Linda Please Stand up...to Large Language Models? Examining the Representativeness Heuristic in LLMs](http://arxiv.org/abs/2404.01461v1)** | 2024-04-01 | work in progress |
 | **[Compositional Chain-of-Thought Prompting for Large Multimodal Models](http://arxiv.org/abs/2311.17076v3)** | 2024-04-01 |  |
 | **[Assessing and Enhancing the Robustness of Large Language Models with Task Structure Variations for Logical Reasoning](http://arxiv.org/abs/2310.09430v4)** | 2024-03-30 | <details><summary>The s...</summary><p>The short version (v3) was accepted for oral presentation at the first LLM@IJCAI 2023 non-archival symposium; the full version is under review</p></details> |
-| **[Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation](http://arxiv.org/abs/2403.16427v3)** | 2024-03-27 | 11 pages, 4 figures |
-| **[Look Before You Leap: Problem Elaboration Prompting Improves Mathematical Reasoning in Large Language Models](http://arxiv.org/abs/2402.15764v2)** | 2024-03-27 |  |
 
 ## unlearning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge](http://arxiv.org/abs/2404.05880v1)** | 2024-04-08 |  |
+| **[Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning](http://arxiv.org/abs/2404.05868v1)** | 2024-04-08 |  |
 | **[Rethinking Machine Unlearning for Large Language Models](http://arxiv.org/abs/2402.08787v3)** | 2024-04-05 |  |
 | **[SalUn: Empowering Machine Unlearning via Gradient-based Weight Saliency in Both Image Classification and Generation](http://arxiv.org/abs/2310.12508v5)** | 2024-04-04 | <details><summary>Accep...</summary><p>Accepted by ICLR 2024 as a Spotlight paper</p></details> |
 | **[Learn What You Want to Unlearn: Unlearning Inversion Attacks against Machine Unlearning](http://arxiv.org/abs/2404.03233v1)** | 2024-04-04 | <details><summary>To Ap...</summary><p>To Appear in the 45th IEEE Symposium on Security and Privacy, May 20-23, 2024</p></details> |
@@ -77,6 +79,4 @@ labels: documentation
 | **[Threats, Attacks, and Defenses in Machine Unlearning: A Survey](http://arxiv.org/abs/2403.13682v2)** | 2024-03-26 |  |
 | **[Stochastic Gradient Langevin Unlearning](http://arxiv.org/abs/2403.17105v1)** | 2024-03-25 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2401.10371</p></details> |
 | **[Unlearning Backdoor Threats: Enhancing Backdoor Defense in Multimodal Contrastive Learning via Local Token Unlearning](http://arxiv.org/abs/2403.16257v1)** | 2024-03-24 | 6 pages, 2 figures |
-| **[Partially Blinded Unlearning: Class Unlearning for Deep Networks a Bayesian Perspective](http://arxiv.org/abs/2403.16246v1)** | 2024-03-24 |  |
-| **[To Generate or Not? Safety-Driven Unlearned Diffusion Models Are Still Easy To Generate Unsafe Images ... For Now](http://arxiv.org/abs/2310.11868v2)** | 2024-03-24 | <details><summary>Codes...</summary><p>Codes are available at https://github.com/OPTML-Group/Diffusion-MU-Attack</p></details> |
 
