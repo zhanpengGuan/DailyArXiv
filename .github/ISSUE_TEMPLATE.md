@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 11, 2024
+title: Latest 15 Papers - April 12, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## LLM reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs](http://arxiv.org/abs/2404.07103v1)** | 2024-04-10 | <details><summary>21 pa...</summary><p>21 pages. Code: https://github.com/PeterGriffinJin/Graph-CoT</p></details> |
 | **[Multimodal Road Network Generation Based on Large Language Model](http://arxiv.org/abs/2404.06227v1)** | 2024-04-09 | 17 pages, 8 figures |
 | **[Counter-intuitive: Large Language Models Can Better Understand Knowledge Graphs Than We Thought](http://arxiv.org/abs/2402.11541v2)** | 2024-04-09 | 13 pages |
 | **[Evaluating Interventional Reasoning Capabilities of Large Language Models](http://arxiv.org/abs/2404.05545v1)** | 2024-04-08 | 17 pages |
@@ -59,7 +60,6 @@ labels: documentation
 | **[GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond](http://arxiv.org/abs/2309.16583v6)** | 2024-04-02 | <details><summary>Accep...</summary><p>Accepted by NAACL 2024</p></details> |
 | **[Will the Real Linda Please Stand up...to Large Language Models? Examining the Representativeness Heuristic in LLMs](http://arxiv.org/abs/2404.01461v1)** | 2024-04-01 | work in progress |
 | **[Compositional Chain-of-Thought Prompting for Large Multimodal Models](http://arxiv.org/abs/2311.17076v3)** | 2024-04-01 |  |
-| **[Assessing and Enhancing the Robustness of Large Language Models with Task Structure Variations for Logical Reasoning](http://arxiv.org/abs/2310.09430v4)** | 2024-03-30 | <details><summary>The s...</summary><p>The short version (v3) was accepted for oral presentation at the first LLM@IJCAI 2023 non-archival symposium; the full version is under review</p></details> |
 
 ## unlearning
 | **Title** | **Date** | **Comment** |
