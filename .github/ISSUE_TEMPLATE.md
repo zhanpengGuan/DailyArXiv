@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 12, 2024
+title: Latest 15 Papers - April 15, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -55,15 +55,11 @@ labels: documentation
 | **[Attention-Driven Reasoning: Unlocking the Potential of Large Language Models](http://arxiv.org/abs/2403.14932v2)** | 2024-04-05 |  |
 | **[Capabilities of Large Language Models in Control Engineering: A Benchmark Study on GPT-4, Claude 3 Opus, and Gemini 1.0 Ultra](http://arxiv.org/abs/2404.03647v1)** | 2024-04-04 |  |
 | **[$\texttt{LM}^\texttt{2}$: A Simple Society of Language Models Solves Complex Reasoning](http://arxiv.org/abs/2404.02255v1)** | 2024-04-02 |  |
-| **[Advancing LLM Reasoning Generalists with Preference Trees](http://arxiv.org/abs/2404.02078v1)** | 2024-04-02 | <details><summary>Model...</summary><p>Models and data are available at https://github.com/OpenBMB/Eurus</p></details> |
-| **[Beyond Accuracy: Evaluating the Reasoning Behavior of Large Language Models -- A Survey](http://arxiv.org/abs/2404.01869v1)** | 2024-04-02 | 26 pages, 2 figures |
-| **[GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond](http://arxiv.org/abs/2309.16583v6)** | 2024-04-02 | <details><summary>Accep...</summary><p>Accepted by NAACL 2024</p></details> |
-| **[Will the Real Linda Please Stand up...to Large Language Models? Examining the Representativeness Heuristic in LLMs](http://arxiv.org/abs/2404.01461v1)** | 2024-04-01 | work in progress |
-| **[Compositional Chain-of-Thought Prompting for Large Multimodal Models](http://arxiv.org/abs/2311.17076v3)** | 2024-04-01 |  |
 
 ## unlearning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient Online Unlearning via Hessian-Free Recollection of Individual Data Statistics](http://arxiv.org/abs/2404.01712v2)** | 2024-04-11 | 25 pages, 8 figures |
 | **[Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge](http://arxiv.org/abs/2404.05880v1)** | 2024-04-08 |  |
 | **[Negative Preference Optimization: From Catastrophic Collapse to Effective Unlearning](http://arxiv.org/abs/2404.05868v1)** | 2024-04-08 |  |
 | **[Rethinking Machine Unlearning for Large Language Models](http://arxiv.org/abs/2402.08787v3)** | 2024-04-05 |  |
@@ -72,7 +68,6 @@ labels: documentation
 | **[Goldfish: An Efficient Federated Unlearning Framework](http://arxiv.org/abs/2404.03180v1)** | 2024-04-04 |  |
 | **[Digital Forgetting in Large Language Models: A Survey of Unlearning Methods](http://arxiv.org/abs/2404.02062v1)** | 2024-04-02 | 70 pages |
 | **[Corrupting Convolution-based Unlearnable Datasets with Pixel-based Image Transformations](http://arxiv.org/abs/2311.18403v2)** | 2024-04-02 |  |
-| **[Efficient Online Unlearning via Hessian-Free Recollection of Individual Data Statistics](http://arxiv.org/abs/2404.01712v1)** | 2024-04-02 | 24 pages, 8 figures |
 | **[Machine Unlearning for Traditional Models and Large Language Models: A Short Survey](http://arxiv.org/abs/2404.01206v1)** | 2024-04-01 | 16 pages |
 | **[Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models](http://arxiv.org/abs/2404.00506v1)** | 2024-03-31 |  |
 | **[Feature Unlearning for Pre-trained GANs and VAEs](http://arxiv.org/abs/2303.05699v4)** | 2024-03-28 |  |
