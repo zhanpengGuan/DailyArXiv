@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 15, 2024
+title: Latest 15 Papers - April 16, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,9 +7,9 @@ labels: documentation
 ## Knowledge graph completion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Harnessing the Power of Large Language Model for Uncertainty Aware Graph Processing](http://arxiv.org/abs/2404.00589v2)** | 2024-04-12 | <details><summary>Becau...</summary><p>Because my organization does not allow members to privately upload papers to arXiv, I am requesting a withdrawal of my submission</p></details> |
 | **[Zero-Shot Relational Learning for Multimodal Knowledge Graphs](http://arxiv.org/abs/2404.06220v1)** | 2024-04-09 |  |
 | **[KGExplainer: Towards Exploring Connected Subgraph Explanations for Knowledge Graph Completion](http://arxiv.org/abs/2404.03893v1)** | 2024-04-05 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 11 tables. Under Review</p></details> |
-| **[Harnessing the Power of Large Language Model for Uncertainty Aware Graph Processing](http://arxiv.org/abs/2404.00589v1)** | 2024-03-31 |  |
 | **[IME: Integrating Multi-curvature Shared and Specific Embedding for Temporal Knowledge Graph Completion](http://arxiv.org/abs/2403.19881v1)** | 2024-03-28 |  |
 | **[KC-GenRe: A Knowledge-constrained Generative Re-ranking Method Based on Large Language Models for Knowledge Graph Completion](http://arxiv.org/abs/2403.17532v1)** | 2024-03-26 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the proceedings of LREC-COLING 2024</p></details> |
 | **[Inductive Knowledge Graph Completion with GNNs and Rules: An Analysis](http://arxiv.org/abs/2308.07942v2)** | 2024-03-24 |  |
@@ -55,6 +55,11 @@ labels: documentation
 | **[Attention-Driven Reasoning: Unlocking the Potential of Large Language Models](http://arxiv.org/abs/2403.14932v2)** | 2024-04-05 |  |
 | **[Capabilities of Large Language Models in Control Engineering: A Benchmark Study on GPT-4, Claude 3 Opus, and Gemini 1.0 Ultra](http://arxiv.org/abs/2404.03647v1)** | 2024-04-04 |  |
 | **[$\texttt{LM}^\texttt{2}$: A Simple Society of Language Models Solves Complex Reasoning](http://arxiv.org/abs/2404.02255v1)** | 2024-04-02 |  |
+| **[Advancing LLM Reasoning Generalists with Preference Trees](http://arxiv.org/abs/2404.02078v1)** | 2024-04-02 | <details><summary>Model...</summary><p>Models and data are available at https://github.com/OpenBMB/Eurus</p></details> |
+| **[Beyond Accuracy: Evaluating the Reasoning Behavior of Large Language Models -- A Survey](http://arxiv.org/abs/2404.01869v1)** | 2024-04-02 | 26 pages, 2 figures |
+| **[GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond](http://arxiv.org/abs/2309.16583v6)** | 2024-04-02 | <details><summary>Accep...</summary><p>Accepted by NAACL 2024</p></details> |
+| **[Will the Real Linda Please Stand up...to Large Language Models? Examining the Representativeness Heuristic in LLMs](http://arxiv.org/abs/2404.01461v1)** | 2024-04-01 | work in progress |
+| **[Compositional Chain-of-Thought Prompting for Large Multimodal Models](http://arxiv.org/abs/2311.17076v3)** | 2024-04-01 |  |
 
 ## unlearning
 | **Title** | **Date** | **Comment** |
