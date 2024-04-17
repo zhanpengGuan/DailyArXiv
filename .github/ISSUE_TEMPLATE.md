@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 17, 2024
+title: Latest 15 Papers - April 18, 2024
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Knowledge graph completion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Progressive Knowledge Graph Completion](http://arxiv.org/abs/2404.09897v1)** | 2024-04-15 | 14 pages, 10 figures |
+| **[HyperMono: A Monotonicity-aware Approach to Hyper-Relational Knowledge Representation](http://arxiv.org/abs/2404.09848v1)** | 2024-04-15 |  |
 | **[MyGO: Discrete Modality Information as Fine-Grained Tokens for Multi-modal Knowledge Graph Completion](http://arxiv.org/abs/2404.09468v1)** | 2024-04-15 | <details><summary>Worki...</summary><p>Working in progress; Repo is available at https://github.com/zjukg/MyGO</p></details> |
 | **[Making Large Language Models Perform Better in Knowledge Graph Completion](http://arxiv.org/abs/2310.06671v2)** | 2024-04-14 | Working in progress |
 | **[Harnessing the Power of Large Language Model for Uncertainty Aware Graph Processing](http://arxiv.org/abs/2404.00589v2)** | 2024-04-12 | <details><summary>Becau...</summary><p>Because my organization does not allow members to privately upload papers to arXiv, I am requesting a withdrawal of my submission</p></details> |
@@ -20,8 +22,6 @@ labels: documentation
 | **[Hyper-CL: Conditioning Sentence Representations with Hypernetworks](http://arxiv.org/abs/2403.09490v1)** | 2024-03-14 | 8 pages, 4 figures |
 | **[Counterfactual Reasoning with Knowledge Graph Embeddings](http://arxiv.org/abs/2403.06936v1)** | 2024-03-11 | <details><summary>Accep...</summary><p>Accepted to EACL 2024</p></details> |
 | **[HDReason: Algorithm-Hardware Codesign for Hyperdimensional Knowledge Graph Reasoning](http://arxiv.org/abs/2403.05763v1)** | 2024-03-09 |  |
-| **[Multi-perspective Improvement of Knowledge Graph Completion with Large Language Models](http://arxiv.org/abs/2403.01972v1)** | 2024-03-04 | <details><summary>Accep...</summary><p>Accepted by LREC-COLING 2024</p></details> |
-| **[Pre-trained Language Model with Prompts for Temporal Knowledge Graph Completion](http://arxiv.org/abs/2305.07912v2)** | 2024-03-04 | <details><summary>Accep...</summary><p>Accepted to Findings of ACL 2023</p></details> |
 
 ## Knowledge graph embedding
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ labels: documentation
 ## LLM reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Self-playing Adversarial Language Game Enhances LLM Reasoning](http://arxiv.org/abs/2404.10642v1)** | 2024-04-16 | Preprint |
 | **[Neuron-level LLM Patching for Code Generation](http://arxiv.org/abs/2312.05356v3)** | 2024-04-15 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 6 tables, under peer-review</p></details> |
 | **[Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs](http://arxiv.org/abs/2404.07103v1)** | 2024-04-10 | <details><summary>21 pa...</summary><p>21 pages. Code: https://github.com/PeterGriffinJin/Graph-CoT</p></details> |
 | **[Multimodal Road Network Generation Based on Large Language Model](http://arxiv.org/abs/2404.06227v1)** | 2024-04-09 | 17 pages, 8 figures |
@@ -59,11 +60,11 @@ labels: documentation
 | **[Advancing LLM Reasoning Generalists with Preference Trees](http://arxiv.org/abs/2404.02078v1)** | 2024-04-02 | <details><summary>Model...</summary><p>Models and data are available at https://github.com/OpenBMB/Eurus</p></details> |
 | **[Beyond Accuracy: Evaluating the Reasoning Behavior of Large Language Models -- A Survey](http://arxiv.org/abs/2404.01869v1)** | 2024-04-02 | 26 pages, 2 figures |
 | **[GPT-Fathom: Benchmarking Large Language Models to Decipher the Evolutionary Path towards GPT-4 and Beyond](http://arxiv.org/abs/2309.16583v6)** | 2024-04-02 | <details><summary>Accep...</summary><p>Accepted by NAACL 2024</p></details> |
-| **[Will the Real Linda Please Stand up...to Large Language Models? Examining the Representativeness Heuristic in LLMs](http://arxiv.org/abs/2404.01461v1)** | 2024-04-01 | work in progress |
 
 ## unlearning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exact and Efficient Unlearning for Large Language Model-based Recommendation](http://arxiv.org/abs/2404.10327v1)** | 2024-04-16 |  |
 | **[Privacy-Preserving Federated Unlearning with Certified Client Removal](http://arxiv.org/abs/2404.09724v1)** | 2024-04-15 |  |
 | **[Efficient Online Unlearning via Hessian-Free Recollection of Individual Data Statistics](http://arxiv.org/abs/2404.01712v2)** | 2024-04-11 | 25 pages, 8 figures |
 | **[Eraser: Jailbreaking Defense in Large Language Models via Unlearning Harmful Knowledge](http://arxiv.org/abs/2404.05880v1)** | 2024-04-08 |  |
@@ -78,5 +79,4 @@ labels: documentation
 | **[Label-Agnostic Forgetting: A Supervision-Free Unlearning in Deep Models](http://arxiv.org/abs/2404.00506v1)** | 2024-03-31 |  |
 | **[Feature Unlearning for Pre-trained GANs and VAEs](http://arxiv.org/abs/2303.05699v4)** | 2024-03-28 |  |
 | **[Threats, Attacks, and Defenses in Machine Unlearning: A Survey](http://arxiv.org/abs/2403.13682v2)** | 2024-03-26 |  |
-| **[Stochastic Gradient Langevin Unlearning](http://arxiv.org/abs/2403.17105v1)** | 2024-03-25 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2401.10371</p></details> |
 
