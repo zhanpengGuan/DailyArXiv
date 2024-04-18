@@ -80,8 +80,22 @@ labels: documentation
 | **[Corrupting Convolution-based Unlearnable Datasets with Pixel-based Image Transformations](http://arxiv.org/abs/2311.18403v2)** | 2024-04-02 |  |
 | **[Machine Unlearning for Traditional Models and Large Language Models: A Short Survey](http://arxiv.org/abs/2404.01206v1)** | 2024-04-01 | 16 pages |
 
-## Retrieval Augmented Generation for LLM
+## Retrieval Augmented Generation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GISTEmbed: Guided In-sample Selection of Training Negatives for Text Embedding Fine-tuning](http://arxiv.org/abs/2402.16829v1)** | 2024-02-26 | <details><summary>GISTE...</summary><p>GISTEmbed GitHub repository at https://github.com/avsolatorio/GISTEmbed</p></details> |
+| **[Generative Representational Instruction Tuning](http://arxiv.org/abs/2402.09906v2)** | 2024-04-17 | <details><summary>66 pa...</summary><p>66 pages (16 main), 25 figures, 34 tables</p></details> |
+| **[Qilin-Med: Multi-stage Knowledge Injection Advanced Medical Large Language Model](http://arxiv.org/abs/2310.09089v2)** | 2024-04-17 |  |
+| **[Position Engineering: Boosting Large Language Models through Positional Information Manipulation](http://arxiv.org/abs/2404.11216v1)** | 2024-04-17 |  |
+| **[A Survey on Retrieval-Augmented Text Generation for Large Language Models](http://arxiv.org/abs/2404.10981v1)** | 2024-04-17 | Ongoing work |
+| **[JMLR: Joint Medical LLM and Retrieval Training for Enhancing Reasoning and Professional Question Answering Capability](http://arxiv.org/abs/2402.17887v3)** | 2024-04-16 |  |
+| **[Retrieval-Augmented Generation: Is Dense Passage Retrieval Retrieving?](http://arxiv.org/abs/2402.11035v2)** | 2024-04-16 |  |
+| **[GenTKG: Generative Forecasting on Temporal Knowledge Graph with Large Language Models](http://arxiv.org/abs/2310.07793v5)** | 2024-04-16 | <details><summary>14 pa...</summary><p>14 pages, Findings of NAACL 2024, Spotlight on TGL@NeurIPS2023</p></details> |
+| **[MiniCheck: Efficient Fact-Checking of LLMs on Grounding Documents](http://arxiv.org/abs/2404.10774v1)** | 2024-04-16 | <details><summary>LLM-A...</summary><p>LLM-AggreFact benchmark, MiniCheck models, data generation code at https://github.com/Liyan06/MiniCheck</p></details> |
+| **[Generative Information Retrieval Evaluation](http://arxiv.org/abs/2404.08137v2)** | 2024-04-16 | <details><summary>Draft...</summary><p>Draft of a chapter intended to appear in a forthcoming book on generative information retrieval, co-edited by Chirag Shah and Ryen White</p></details> |
+| **[DP-RDM: Adapting Diffusion Models to Private Domains Without Fine-Tuning](http://arxiv.org/abs/2403.14421v2)** | 2024-04-16 |  |
+| **[Spiral of Silences: How is Large Language Model Killing Information Retrieval? -- A Case Study on Open Domain Question Answering](http://arxiv.org/abs/2404.10496v1)** | 2024-04-16 |  |
+| **[How faithful are RAG models? Quantifying the tug-of-war between RAG and LLMs' internal prior](http://arxiv.org/abs/2404.10198v1)** | 2024-04-16 |  |
+| **[Qlarify: Recursively Expandable Abstracts for Directed Information Retrieval over Scientific Papers](http://arxiv.org/abs/2310.07581v2)** | 2024-04-15 | <details><summary>21 pa...</summary><p>21 pages, 10 figures, 4 tables. arXiv admin note: text overlap with arXiv:2305.14314 by other authors</p></details> |
+| **[README: Bridging Medical Jargon and Lay Understanding for Patient Education through Data-Centric NLP](http://arxiv.org/abs/2312.15561v2)** | 2024-04-15 |  |
+| **[Cross-Data Knowledge Graph Construction for LLM-enabled Educational Question-Answering System: A~Case~Study~at~HCMUT](http://arxiv.org/abs/2404.09296v1)** | 2024-04-14 | 8 pages, 7 figures |
 
